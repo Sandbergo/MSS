@@ -6,4 +6,4 @@ function q_conj = quatprod(q)
 % Date:     10th September 2019
 % Revisions: 
 
-q_conj = [eta1 -q(2:4)];
+q_conj = [q(1) -q(2:4)];
