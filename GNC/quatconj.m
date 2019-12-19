@@ -1,5 +1,5 @@
   
-function q_conj = quatprod(q)
+function q_conj = quatconj(q)
 % q_conj = quatconj(q) computes the quaternion conjugate
 %
 % Author:   Lars L. Sandberg
